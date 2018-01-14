@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Win at Latin</title>
-    <link>http://example.org/posts/</link>
+    <link>https://winatlatin.github.io/posts/</link>
     <description>Recent content in Posts on Win at Latin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2018 12:32:12 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://winatlatin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motivation</title>
-      <link>http://example.org/posts/motivation/</link>
+      <link>https://winatlatin.github.io/posts/motivation/</link>
       <pubDate>Sun, 14 Jan 2018 12:32:12 -0500</pubDate>
       
-      <guid>http://example.org/posts/motivation/</guid>
+      <guid>https://winatlatin.github.io/posts/motivation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;
 Sitting by the fire on a winter evening, I am reading Cicero&#39;s &lt;em&gt;Philippicae&lt;/em&gt; in the original, perhaps with occasional recourse to a dictionary, with a nice glass of brandy at hand.
