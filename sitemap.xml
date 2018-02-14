@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://winatlatin.github.io/archives/</loc>
+    <lastmod>2018-01-14T13:25:58-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://winatlatin.github.io/posts/motivation/</loc>
     <lastmod>2018-01-14T12:32:12-05:00</lastmod>
   </url>
@@ -25,7 +30,7 @@
   
   <url>
     <loc>https://winatlatin.github.io/</loc>
-    <lastmod>2018-01-14T12:32:12-05:00</lastmod>
+    <lastmod>2018-01-14T13:25:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   

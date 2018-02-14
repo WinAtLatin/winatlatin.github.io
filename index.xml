@@ -6,10 +6,19 @@
     <description>Recent content on Win at Latin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2018 12:32:12 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2018 13:25:58 -0500</lastBuildDate>
     
         <atom:link href="https://winatlatin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Archives</title>
+      <link>https://winatlatin.github.io/archives/</link>
+      <pubDate>Sun, 14 Jan 2018 13:25:58 -0500</pubDate>
+      
+      <guid>https://winatlatin.github.io/archives/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Motivation</title>
